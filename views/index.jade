@@ -14,10 +14,10 @@ block content
                                 div
                                 div
                                 div
-                        p.text-white.font-weight-bold Price: 0.05Ξ
+                        p.text-white.font-weight-bold
                         p.text-white#current-supply
-                        input#mintAmount(value=1, type="number", step=1, min=1, max=20).mt-2.form-control
-                        button#mintButton.mt-4.btn.custom.text-white MINT
+                        p.text-white MINTING PERIOD HAS ENDED
+                        button(disabled = true)#mintButton.mt-4.btn.custom.text-white MINT
             div.col-12.col-lg-6.d-flex.align-items-center.justify-content-center
                 iframe#showcase(src="/generator/0", style={width: "400px", height: "400px"})
         div.row.mt-5.pt-5

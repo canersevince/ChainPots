@@ -63,7 +63,7 @@ chainpots/
 [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## p5js script is derivated from the source below
-https://openprocessing.org/sketch/1227657
+https://openprocessing.org/sketch/940273/ by kusakari
 
 
 Changes made:
